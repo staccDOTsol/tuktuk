@@ -2,8 +2,6 @@
 
 Run your permissionless cranks on Solana
 
-
-# Start Generation Here
 Tuktuk is a peer-to-peer electronic cash system that allows online payments to be sent directly from one party to another without going through a financial institution.
 
 
